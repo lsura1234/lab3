@@ -29,6 +29,7 @@
                 @else
                     <li><a href="{{URL::to('product')}}">ข้อมูลสินค้า</a></li>
                 <li><a href="{{URL::to('chart')}}">รายงาน</a></li>
+                
                 @endguest
                 </ul>
 
